@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumar0143&show_icons=true&theme=radical)
 
 <!--
 **pavankumar0143/pavankumar0143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
